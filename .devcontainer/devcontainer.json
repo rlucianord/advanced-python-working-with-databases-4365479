@@ -8,6 +8,7 @@
 			"NODE_VERSION": "lts/*"
 		}
 	},
+	"ghcr.io/devcontainers-extra/features/mysql-homebrew:1": {},
 	"settings": { 
 		"python.defaultInterpreterPath": "/usr/local/bin/python",
 		"python.linting.enabled": true,
@@ -22,6 +23,7 @@
 		"python.linting.pydocstylePath": "/usr/local/py-utils/bin/pydocstyle",
 		"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint",
 		"python.linting.pylintArgs": ["--disable=C0111"]
+		
 	},
 	"extensions": [
 		"ms-python.python",
